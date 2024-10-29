@@ -8,7 +8,7 @@ I'm a passionate developer based in Sydney, focusing on web development with a k
 
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React, Bootstrap
-- **Tools**: Git, GitHub, iMovie
+- **Tools**: Git, GitHub, Webpack 
 - **Interests**: AI, Machine Learning, UX/UI Design
 
 ### 🌟 Featured Projects
