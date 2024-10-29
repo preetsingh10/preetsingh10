@@ -30,12 +30,12 @@ I'm a passionate developer based in Sydney, focusing on web development with a k
 - Optimized for responsiveness across devices.
 - **Technologies**: HTML5, CSS3, JavaScript
 
-### **Etch-a-Sketch**
+### **Todo-list Application**
 
 [Live Demo](https://preetsingh10.github.io/to-do-list/)
 
 - A simple, intuitive To-Do app for managing daily tasks efficiently. Add, edit, and delete tasks with ease. Built with JavaScript and styled with CSS, this app helps organize tasks with a clean interface. Perfect for productivity enthusiasts looking to stay organized!
-**Technologies**: JavaScript, CSS3, DOM Manipulation
+**Technologies**: JavaScript, CSS3, Webpack, DOM Manipulation
 
 
 
