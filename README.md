@@ -32,10 +32,12 @@ I'm a passionate developer based in Sydney, focusing on web development with a k
 
 ### **Etch-a-Sketch**
 
-[Live Demo](https://preetsingh10.github.io/etch-a-sketch/)
+[Live Demo](https://preetsingh10.github.io/to-do-list/)
 
-- Developed a dynamic Etch-a-Sketch grid with features for drawing, coloring, and erasing, demonstrating advanced JavaScript and DOM manipulation skills.
-- **Technologies**: JavaScript, CSS3, DOM Manipulation
+- A simple, intuitive To-Do app for managing daily tasks efficiently. Add, edit, and delete tasks with ease. Built with JavaScript and styled with CSS, this app helps organize tasks with a clean interface. Perfect for productivity enthusiasts looking to stay organized!
+**Technologies**: JavaScript, CSS3, DOM Manipulation
+
+
 
 ### 📫 Get in Touch
 
