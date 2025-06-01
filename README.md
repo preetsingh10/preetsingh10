@@ -1,45 +1,64 @@
-# 👋 Hi, I'm Preet!
+# 👋 Hi, I'm Preet Singh!
 
 ### 🚀 About Me
 
-I'm a passionate developer based in Sydney, focusing on web development with a keen interest in full-stack technologies. I love turning ideas into reality through code and am currently enhancing my skills in JavaScript and React.
+I'm a passionate **web developer** based in Sydney, focused on full-stack technologies. I love turning creative ideas into interactive applications and am currently enhancing my skills in **JavaScript**, **React**, and **modern web tooling**.
 
-### 💻 Skills
+---
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks**: React, Bootstrap
-- **Tools**: Git, GitHub, Webpack 
-- **Interests**: AI, Machine Learning, UX/UI Design
+### 💻 Skills & Interests
+
+- **Languages**: JavaScript (ES6+), HTML5, CSS3
+- **Frameworks/Libraries**: React, Bootstrap
+- **Tools**: Git, GitHub, Webpack, VSCode
+- **Interests**: AI, Machine Learning, UX/UI Design, Frontend Performance
+
+---
 
 ### 🌟 Featured Projects
 
-### **Landing Page**
+#### 🛳️ **Battleship Game**
 
-[Live Demo](https://preetsingh10.github.io/landing-page/)
+[Live Demo](https://preetsingh10.github.io/battleship/) • [Source Code](https://github.com/preetsingh10/battleship)
 
-- Designed and developed a responsive landing page for small businesses using HTML5, CSS3, and JavaScript.
-- Implemented best practices for SEO and performance optimization.
+- A classic Battleship game built in **pure JavaScript** (no frameworks) as part of The Odin Project.
+- Features player vs. computer gameplay, spacebar-based ship rotation, and smart visual feedback.
+- **Technologies**: JavaScript, HTML, CSS, Webpack
+
+---
+
+#### 🖥️ **Landing Page**
+
+[Live Demo](https://preetsingh10.github.io/landing-page/) • [Source Code](https://github.com/preetsingh10/landing-page)
+
+- Responsive landing page designed for small businesses, with focus on clean UI, SEO, and performance.
 - **Technologies**: HTML5, CSS3, JavaScript
 
-### **Calculator Application**
+---
 
-[Live Demo](https://preetsingh10.github.io/calculator/)
+#### 🧮 **Calculator Application**
 
-- Built a fully functional calculator using HTML, CSS, and JavaScript.
-- Implemented core arithmetic operations and state management to handle real-time calculations.
-- Optimized for responsiveness across devices.
+[Live Demo](https://preetsingh10.github.io/calculator/) • [Source Code](https://github.com/preetsingh10/calculator)
+
+- Fully functional calculator implementing core arithmetic and real-time state management.
 - **Technologies**: HTML5, CSS3, JavaScript
 
-### **Todo-list Application**
+---
 
-[Live Demo](https://preetsingh10.github.io/to-do-list/)
+#### ✅ **Todo-list Application**
 
-- A simple, intuitive To-Do app for managing daily tasks efficiently. Add, edit, and delete tasks with ease. Built with JavaScript and styled with CSS, this app helps organize tasks with a clean interface. Perfect for productivity enthusiasts looking to stay organized!
-**Technologies**: JavaScript, CSS3, Webpack, DOM Manipulation
+[Live Demo](https://preetsingh10.github.io/to-do-list/) • [Source Code](https://github.com/preetsingh10/to-do-list)
 
+- Intuitive To-Do app for managing daily tasks, with clean UI and local storage support.
+- **Technologies**: JavaScript, CSS3, Webpack, DOM Manipulation
 
+---
 
 ### 📫 Get in Touch
 
-- LinkedIn: My LinkedIn Profile(https://www.linkedin.com/in/preetsingh10/)
-- Email: preet10syd@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/preetsingh10/)
+- 📧 preet10syd@gmail.com
+
+---
+
+⭐ **If you like my work, feel free to star my repositories and connect!**
