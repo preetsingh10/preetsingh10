@@ -17,6 +17,15 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ### 🌟 Featured Projects
 
+#### ✅ **Todo-list Application**
+
+[Live Demo](https://preetsingh10.github.io/to-do-list/) • [Source Code](https://github.com/preetsingh10/to-do-list)
+
+- Intuitive To-Do app for managing daily tasks, with clean UI and local storage support.
+- **Technologies**: JavaScript, CSS3, Webpack, DOM Manipulation
+
+---
+
 #### 🛳️ **Battleship Game**
 
 [Live Demo](https://preetsingh10.github.io/battleship/) • [Source Code](https://github.com/preetsingh10/battleship)
@@ -42,15 +51,6 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 - Fully functional calculator implementing core arithmetic and real-time state management.
 - **Technologies**: HTML5, CSS3, JavaScript
-
----
-
-#### ✅ **Todo-list Application**
-
-[Live Demo](https://preetsingh10.github.io/to-do-list/) • [Source Code](https://github.com/preetsingh10/to-do-list)
-
-- Intuitive To-Do app for managing daily tasks, with clean UI and local storage support.
-- **Technologies**: JavaScript, CSS3, Webpack, DOM Manipulation
 
 ---
 
