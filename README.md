@@ -17,6 +17,15 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ### 🌟 Featured Projects
 
+#### 📄 **CV Builder Application**
+
+[Live Demo](https://preetsingh10.github.io/cv-builder/) . [Source Code](https://github.com/preetsingh10/cv-builder)
+
+- React app which shows live updates as the state changes on the client side.
+- **Techonologies**: React, CSS, Vite
+
+---
+
 #### ✅ **Todo-list Application**
 
 [Live Demo](https://preetsingh10.github.io/to-do-list/) • [Source Code](https://github.com/preetsingh10/to-do-list)
