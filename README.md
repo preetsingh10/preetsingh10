@@ -30,7 +30,7 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ---
 
-### React Apps
+###  React Apps
 
 1. #### 📄 **CV Builder Application**
 
@@ -55,13 +55,8 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ---
 
-
-
 ### 📫 Get in Touch
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/preetsingh10/)
 - 📧 preet10syd@gmail.com
-
 ---
-
 ⭐ **If you like my work, feel free to star my repositories and connect!**
