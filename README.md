@@ -8,9 +8,10 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ### 💻 Skills & Interests
 
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries**: React, HTMX
-- **Tools**: Git, GitHub, Webpack, VSCode
+- **Languages**: JavaScript (ES6+), HTML5, CSS3.
+- **Frameworks/Libraries**: React, HTMX, Tailwind , Express(Node Js).
+- **Database**: Postgres.
+- **Tools**: Git, GitHub, Vim Motions ,Webpack, Vite,VSCode
 - **Interests**: AI, Machine Learning, UX/UI Design, Frontend Performance
 
 ---
