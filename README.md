@@ -25,7 +25,7 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 - A CRUD app where a user can create categories and items and perform CRUD actions on it. 
 - **Technologies**: HTMX, Tailwind, Express and Postgres 
-- ** Hosted on **: * My Own Raspberry Pi server (could be change in future) * 
+- **Hosted on**: *My Own Raspberry Pi server (could be change in future)* 
 
 ---
 #### 📄 **CV Builder Application**
