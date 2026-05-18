@@ -9,7 +9,7 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 ### 💻 Skills & Interests
 
 - **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries**: React, Bootstrap
+- **Frameworks/Libraries**: React, HTMX
 - **Tools**: Git, GitHub, Webpack, VSCode
 - **Interests**: AI, Machine Learning, UX/UI Design, Frontend Performance
 
@@ -17,6 +17,17 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ### 🌟 Featured Projects
 
+---
+
+#### 📦 **Inventory Application (*Still in Production*)**
+
+[Live Demo](https://inventory.preetsingh.dev/) • [Source Code](https://github.com/preetsingh10/inventory-application)
+
+- A CRUD app where a user can create categories and items and perform CRUD actions on it. 
+- **Technologies**: HTMX, Tailwind, Express and Postgres 
+- ** Hosted on **: * My Own Raspberry Pi server (could be change in future) * 
+
+---
 #### 📄 **CV Builder Application**
 
 [Live Demo](https://preetsingh10.github.io/cv-builder/) . [Source Code](https://github.com/preetsingh10/cv-builder)
@@ -24,16 +35,6 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 - React app which shows live updates as the state changes on the client side.
 - **Techonologies**: React, CSS, Vite
 
----
-
-#### ✅ **Todo-list Application**
-
-[Live Demo](https://preetsingh10.github.io/to-do-list/) • [Source Code](https://github.com/preetsingh10/to-do-list)
-
-- Intuitive To-Do app for managing daily tasks, with clean UI and local storage support.
-- **Technologies**: JavaScript, CSS3, Webpack, DOM Manipulation
-
----
 
 #### 🛳️ **Battleship Game**
 
