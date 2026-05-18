@@ -36,6 +36,7 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 - React app which shows live updates as the state changes on the client side.
 - **Techonologies**: React, CSS, Vite
 
+---
 
 #### 🛳️ **Battleship Game**
 
@@ -56,14 +57,6 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ---
 
-#### 🧮 **Calculator Application**
-
-[Live Demo](https://preetsingh10.github.io/calculator/) • [Source Code](https://github.com/preetsingh10/calculator)
-
-- Fully functional calculator implementing core arithmetic and real-time state management.
-- **Technologies**: HTML5, CSS3, JavaScript
-
----
 
 ### 📫 Get in Touch
 
