@@ -18,8 +18,6 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ### 🌟 Featured Projects
 
----
-
 #### 📦 **Inventory Application (*Still in Production*)**
 
 [Live Demo](https://inventory.preetsingh.dev/) • [Source Code](https://github.com/preetsingh10/inventory-application)
