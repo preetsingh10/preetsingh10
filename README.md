@@ -29,15 +29,22 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 - **Hosted on**: *My Own Raspberry Pi server (Migrating To Cloud In Future)* 
 
 ---
-#### 📄 **CV Builder Application**
+
+### React Apps
+
+1. #### 📄 **CV Builder Application**
 
 [Live Demo](https://preetsingh10.github.io/cv-builder/) . [Source Code](https://github.com/preetsingh10/cv-builder)
 
-- React app which shows live updates as the state changes on the client side.
+- React App which shows live updates as the state changes on the client side.
 - **Techonologies**: React, CSS, Vite
 
----
+2. #### **E-Commerce Website**
+[Live Demo](https://preet-cartify.vercel.app/) . [source Code](https://github.com/preetsingh10/shopping-cart)
 
+- React SPA App which fetch data from an API and update the page according to state without refreshing the whole page. 
+- **Technologies**: React, React Router, Vite. 
+---
 #### 🛳️ **Battleship Game**
 
 [Live Demo](https://preetsingh10.github.io/battleship/) • [Source Code](https://github.com/preetsingh10/battleship)
@@ -48,14 +55,6 @@ I'm a passionate **web developer** based in Sydney, focused on full-stack techno
 
 ---
 
-#### 🖥️ **Landing Page**
-
-[Live Demo](https://preetsingh10.github.io/landing-page/) • [Source Code](https://github.com/preetsingh10/landing-page)
-
-- Responsive landing page designed for small businesses, with focus on clean UI, SEO, and performance.
-- **Technologies**: HTML5, CSS3, JavaScript
-
----
 
 
 ### 📫 Get in Touch
